@@ -140,6 +140,10 @@ article img:hover {
     background-image: url('elearning.jpeg');
 }
 
+.project:nth-child(9) {
+    background-image: url('adventure.jpeg');
+}
+
 
 /* Buttons */
 .btn {
