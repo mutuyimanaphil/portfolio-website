@@ -114,7 +114,7 @@ article img:hover {
 
 /* Set background images for specific projects */
 .project:nth-child(1) {
-    background-image: url('image1.jpg'); /* Replace with actual project image */
+    background-image: url('image1.jpg'); 
 }
 
 .project:nth-child(2) {
